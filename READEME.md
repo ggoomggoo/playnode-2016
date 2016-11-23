@@ -73,9 +73,10 @@ http://playnode.io/2016/
 
 ## nodejs event loop
 
-* Bert Belder / StrongLoop
-    - nodejs core contributer
-    - [https://github.com/piscisaureus](https://github.com/piscisaureus)
+* speaker
+    - Bert Belder / StrongLoop
+        + nodejs core contributer
+        + [https://github.com/piscisaureus](https://github.com/piscisaureus)
 * nodejs event loop
     - googling
     - proccess
@@ -87,3 +88,61 @@ http://playnode.io/2016/
             * connect
             * write
             * read
+
+## LoopBack
+
+The Node.js API Framework
+
+* speaker
+    - outsider
+* links
+    - [http://loopback.io/getting-started/](http://loopback.io/getting-started/)
+    - [http://loopback.io/doc/](http://loopback.io/doc/)
+* intro
+    - IBM
+    - API framework
+    - tj maintanined
+    - 하위호환성
+        + ~3.0 but 2.0
+    - rails scaffold
+* API 작업
+    - DB
+        + 스키파
+        + SQL, ORM
+    - 웹 프레임워크
+    - URL / method 정의
+    - docs
+        + 최신화
+    - 원격 호출
+* stringloop
+    - $ slc
+* 디렉토리 구조
+    - client
+    - server
+        + server.js
+        + *.json
+    - Express middleware
+* 모델 생성
+    - interactive mode
+    - $ slc loopback:model
+    - 공통, 서버
+* docs
+    - swagger 통합
+* DB
+    - $ slc loopback:datasource
+    - connector Y
+    - scheme
+        + automigrate
+            * drop and create
+        + update
+
+* git
+    - add -p
+    - ...
+* ...
+
+## docker
+...
+
+## V8 Debugging Protocol 로 Javascript Playgrounds 만들기
+...
