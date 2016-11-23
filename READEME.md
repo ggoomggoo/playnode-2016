@@ -70,3 +70,20 @@ http://playnode.io/2016/
     - ...
 * webpack
     - ...
+
+## nodejs event loop
+
+* Bert Belder / StrongLoop
+    - nodejs core contributer
+    - [https://github.com/piscisaureus](https://github.com/piscisaureus)
+* nodejs event loop
+    - googling
+    - proccess
+        + computer
+            * cpu
+            * hdd
+            * memory
+        + code
+            * connect
+            * write
+            * read
